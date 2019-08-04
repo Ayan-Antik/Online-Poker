@@ -1,8 +1,12 @@
 # Poker
 CSE 108 Term Project
+
 Contributors:
+
 Tanjim Ahmed Khan(1705032)
+
 Ayan Antik Khan(1705036)
+
 It's a LAN multiplayer poker game built with JavaFX. It is a server-client based implementation of the famous 'Texas hold'em Poker'.
 
 The game contains two poker tables, each consisting of 5 seats. So, at best 10 users can play at a time. Others have to wait until
