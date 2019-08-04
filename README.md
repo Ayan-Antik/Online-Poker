@@ -17,14 +17,24 @@ You need to create a user account to play the game. The accounts are password-pr
 you log out.
 
 
+
 The Login Screen
+
 ![Untitled](https://user-images.githubusercontent.com/45909948/56754444-df4f5700-67ae-11e9-8013-392c97ae3f48.png)
 
 
+
+
 The Signup Screen
+
 ![a](https://raw.githubusercontent.com/Ayan-Antik/OnlinePoker/master/src/resources/signup.jpg)
 
 
+
+
 The Poker Table
+
 ![a](https://user-images.githubusercontent.com/45909948/56754494-0443ca00-67af-11e9-9f33-745d9819c0f1.png)
+
+
 
