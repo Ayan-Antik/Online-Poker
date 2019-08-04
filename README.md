@@ -22,7 +22,7 @@ The Login Screen
 
 
 The Signup Screen
-![a](https://github.com/Ayan-Antik/OnlinePoker/blob/master/src/resources/signup.jpg)
+![a](https://user-images.githubusercontent.com/Ayan-Antik/OnlinePoker/master/src/resources/signup.jpg)
 
 
 The Poker Table
